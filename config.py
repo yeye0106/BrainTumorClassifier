@@ -1,7 +1,7 @@
 import os
 import torch
 
-DATA_DIR = "./brain-tumor-mri-dataset"
+DATA_DIR = "./dataset"
 TRAIN_DIR = os.path.join(DATA_DIR, "Training")
 TEST_DIR = os.path.join(DATA_DIR, "Testing")
 
